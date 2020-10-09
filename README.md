@@ -6,7 +6,7 @@
 
 ---
 
-<h2> What is Containerization?<h2>
+<h2> What is Containerization?</h2>
 
 Containerization is defined as a form of operating system virtualization, through which applications are run in isolated user spaces called containers, all using the same shared operating system (OS). A container is essentially a fully packaged and portable computing environment
 
