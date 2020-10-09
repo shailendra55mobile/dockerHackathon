@@ -22,11 +22,13 @@ To learn more we can check official docs [here](https://docs.docker.com/compose/
 * Install the application.
 * Start Docker Desktop.
 <br />
+
 ![Test Image](https://docs.docker.com/docker-for-windows/images/docker-app-search.png)
 <br />
 
 * When the whale icon in the status bar stays steady, Docker Desktop is up-and-running, and is accessible from any terminal window.
 <br />
+
 ![docker icon](https://docs.docker.com/docker-for-windows/images/whale-icon-systray.png)
 
 * When the initialization is complete, Docker Desktop launches the onboarding tutorial. The tutorial includes a simple exercise to build an example Docker image, run it as a container, push and save the image to Docker Hub.
