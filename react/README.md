@@ -21,4 +21,4 @@
 * You can use multistage dockerfile for serve the project.
 * The build layers of the images must be less.
 
-<img align='center' src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/GZ7u8e4EApxz5ybp8iAbR782/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882">
+<img align='center' src="https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg">
