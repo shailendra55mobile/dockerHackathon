@@ -27,4 +27,4 @@
 * Include comments on every step in Dockerfile and docker-compose file.
 * Please include maintainer in Dockerfile.
 
-<img align='center' src="https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg">
+<img align='center' src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/python-logo.jpg">
