@@ -1,4 +1,5 @@
-flutter web app
+# flutter web app
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 1) create a sample project for flutter web app
 2) create a docker file for install all dependenies and serve the project using apache/nginx.
 3) create a docker-compose for setup the local environment.
