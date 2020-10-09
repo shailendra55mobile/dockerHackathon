@@ -7,11 +7,17 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 <img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
 
-## 1) Create a sample project for flutter web app
-## 2) Create a docker file for install all dependencies and serve the project using apache/nginx.
-## 3) Create a docker-compose to setup the local environment.
+### 1) Create a sample project for flutter web app
+### 2) Create a docker file for install all dependencies and serve the project using apache/nginx.
+### 3) Create a docker-compose to setup the local environment.
 
-**Note: make sure you choose base linux as ubuntu,centos etc.**<br />
-**please do not use third party images to  serve the project.**<br />
-**you can use multistage dockerfile to serve the project.**<br />
-**make sure layer of build the images must be less.**<br />
+ 
+## Note:
+* Container name must be flutter-con.
+* Image name must be flutter-img.
+* Make sure you choose base linux images as ubuntu,centos etc.
+* Please do not use third party images to serve the project.
+* You can use multistage Dockerfile to serve the project.
+* Make sure the build layers of the images must be less.
+
+
