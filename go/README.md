@@ -8,11 +8,17 @@
 
 <img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
 
-## 1) Create a sample project with database connection and check database connection is successfull or not.
-## 2) Create a Dockerfile to serve the project using apache/nginx web server.
-## 3) Create a docker-compose to setup the local environment.
+### 1) Create a sample project with database connection and check database connection is successfull or not.
+### 2) Create a Dockerfile to serve the project using apache/nginx web server.
+### 3) Create a docker-compose to setup the local environment.
 
-**Note: make sure you choose base linux as ubuntu,centos,mariadb,php,composer,nginx etc.**<br />
-**please do not use third party images to serve the project.**<br />
-**you can use multistage dockerfile to serve the project.**<br />
-**make sure layer of build the images must be less.**<br />
+## Note:
+* Container name must be php-con.
+* Image name must be php-img.
+* Make sure you choose base linux image as ubuntu,centos,mariadb,php,composer,nginx etc.
+* Please do not use third party images for serve the project.
+* You can use multistage dockerfile for serve the project.
+* The build layers of the images must be less.
+
+<img align='center' src="https://miro.medium.com/max/2700/1*gViWI8dDXWcBkRdDP_CpQQ.png">
+
