@@ -32,7 +32,13 @@ Docker is one of the most well-known and highly used container engine technologi
 
 <h2>About this project ?</h2>
 
-This project includes a short summary of a problem which needs to be solved. The problem is based on the docker and docker-compose. Seprate directory includes questions related on docker. A .txt file is attached to proceed step by step on the task.
+This project includes a short summary of a problem which needs to be solved.<br />
+The problem is based on the docker and docker-compose.<br />
+Seprate directory is created according to the profiles.<br />
+We have to create a sample project and follow the instructions.<br />
+Fork the repository .Create Dockerfile and docker-compose.<br />
+Create the pull request.<br />
+A ReadMe file is attached in [github pr](https://github.com/Imsurajkr/dockerHackathon/tree/main/githubPR) to create a pull request.<br />
 
 ---
 
