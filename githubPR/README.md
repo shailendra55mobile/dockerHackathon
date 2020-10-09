@@ -8,8 +8,10 @@
 
 ## Register on hacktober fest [here](https://hacktoberfest.digitalocean.com/)
 Step 1: Click on **start hacking**.<br />
-Step 2: **Sign in with Github** .<br />
-Step 3: Select **participant** .<br />
+Step 2: **Sign in with Github**.<br />
+Step 3: Select **participant**.<br />
+Step 4: click on Terms and conditions.<br />
+Step 5: Begin Hacking.<br />
 
 ## Instructions to complete the task and commit 
 
