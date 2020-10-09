@@ -22,8 +22,6 @@ Containerization offers significant benefits to developers and development teams
   <li>Ease of management</li>
 </ol> 
 
-
-
 ---
 
 <h2>Types</h2>
