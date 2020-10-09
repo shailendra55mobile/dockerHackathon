@@ -6,11 +6,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
+<img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
 
-1) Create a sample project for react application with one test case.
-2) Make sure use nodejs base image with version.
-3) Create a Dockerfile to serve the project using apache/nginx web server.
-4) Create docker-compose to setup the local environment.
+## 1) Create a sample project for react application with one test case.
+## 2) Make sure use nodejs base image with version.
+## 3) Create a Dockerfile to serve the project using apache/nginx web server.
+## 4) Create docker-compose to setup the local environment.
 
 **note:**<br />
 **please do not use third party images for serve the project.**<br />
