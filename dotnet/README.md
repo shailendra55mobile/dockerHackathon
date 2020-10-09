@@ -13,9 +13,6 @@
 ## 2) Install all dependencies on core images for the project in Dockerfile.
 ## 3) Create docker-compose for local setup.
 
-<img align='right' src="https://cdn.auth0.com/blog/illustrations/dotnet.png" width="230">
-
-
 **Note: make sure you choose base linux as ubuntu,centos etc.**<br />
 **please do not use third party images to serve the project.**<br />
 **you can use multistage dockerfile to serve the project.**<br />

@@ -6,9 +6,11 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 
-1) Create a sample project with database connection and check database connetion is successfull or not.
-2) Create a Dockerfile to serve the project using apache/nginx web server.
-3) Create a docker-compose to setup the local environment.
+<img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
+
+## 1) Create a sample project with database connection and check database connetion is successfull or not.
+## 2) Create a Dockerfile to serve the project using apache/nginx web server.
+## 3) Create a docker-compose to setup the local environment.
 
 **Note: make sure you choose base linux as ubuntu,centos,mariadb,php,composer,nginx etc.**<br />
 **please do not use third party images for serve the project.**<br />
