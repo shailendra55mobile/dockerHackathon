@@ -1,4 +1,4 @@
-# Welcome to the world of containerisation 🐋
+# Welcome to the world of Containerization 🐋
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 
@@ -6,7 +6,7 @@
 
 ---
 
-<h2> What is Containerisation?<h2>
+<h2> What is Containerization?<h2>
 
 <h3>Containerization is defined as a form of operating system virtualization, through which applications are run in isolated user spaces called containers, all using the same shared operating system (OS). A container is essentially a fully packaged and portable computing environment</h3>
 
