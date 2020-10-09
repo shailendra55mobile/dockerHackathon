@@ -13,12 +13,18 @@
 ### 3) Create a docker-compose to setup the local environment.
 
 ## Note:
-* Container name must be php-con.
-* Image name must be php-img.
-* Make sure you choose base linux image as ubuntu,centos,mariadb,php,composer,nginx etc.
+* Container name must be go-con.
+* Image name must be go-img.
+* Make sure you choose base linux image like ubuntu,centos,nginx,apache etc.
 * Please do not use third party images for serve the project.
 * You can use multistage dockerfile for serve the project.
 * The build layers of the images must be less.
+
+
+## Best Practices for Dockerfile and docker-compose.
+* Use volume in docker-compose for runtime changes.
+* Include comments on every step in Dockerfile and docker-compose file.
+* Please include maintainer in Dockerfile.
 
 <img align='center' src="https://miro.medium.com/max/2700/1*gViWI8dDXWcBkRdDP_CpQQ.png">
 

@@ -16,9 +16,15 @@
 ## Note:
 * Container name must be dotnet-con.
 * Image name must be dotnet-img.
-* Make sure you choose base linux image as ubuntu,centos,mariadb,php,composer,nginx etc.
+* Make sure you choose base linux image like ubuntu,centos,nginx etc.
 * Please do not use third party images for serve the project.
 * You can use multistage dockerfile for serve the project.
 * The build layers of the images must be less.
+
+
+## Best Practices for Dockerfile and docker-compose.
+* Use volume in docker-compose for runtime changes.
+* Include comments on every step in Dockerfile and docker-compose file.
+* Please include maintainer in Dockerfile.
 
 <img align='center' src="https://fwdsgf.com/wp-content/uploads/2018/01/logo-dot-net-framework.png">

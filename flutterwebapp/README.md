@@ -16,10 +16,16 @@
 ## Note:
 * Container name must be flutter-con.
 * Image name must be flutter-img.
-* Make sure you choose base linux images as ubuntu,centos etc.
+* Make sure you choose base linux images like ubuntu,centos,nginx,apache etc.
 * Please do not use third party images to serve the project.
 * You can use multistage Dockerfile to serve the project.
 * The build layers of the images must be less.
+
+
+## Best Practices for Dockerfile and docker-compose.
+* Use volume in docker-compose for runtime changes.
+* Include comments on every step in Dockerfile and docker-compose file.
+* Please include maintainer in Dockerfile.
 
 <img align='center' src="https://dashbouquet.com/static/020b2d58fcc9ac999513a862aa01314c/d47f1/flutter-app-development-post.jpg">
 
