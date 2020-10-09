@@ -9,11 +9,16 @@
 
 <img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
 
-## 1) Create a sample project for dotnet application.
-## 2) Install all dependencies on core images for the project in Dockerfile.
-## 3) Create docker-compose for local setup.
+### 1) Create a sample project for dotnet application.
+### 2) Install all dependencies on core images for the project in Dockerfile.
+### 3) Create docker-compose for local setup.
 
-**Note: make sure you choose base linux as ubuntu,centos etc.**<br />
-**please do not use third party images to serve the project.**<br />
-**you can use multistage dockerfile to serve the project.**<br />
-**make sure layer of build the images must be less.**<br />
+## Note:
+* Container name must be dotnet-con.
+* Image name must be dotnet-img.
+* Make sure you choose base linux image as ubuntu,centos,mariadb,php,composer,nginx etc.
+* Please do not use third party images for serve the project.
+* You can use multistage dockerfile for serve the project.
+* The build layers of the images must be less.
+
+<img align='center' src="https://fwdsgf.com/wp-content/uploads/2018/01/logo-dot-net-framework.png">

@@ -13,11 +13,11 @@
 ### 3) Create a docker-compose to setup the local environment.
 
 ## Note:
-* Container name must be flutter-con.
-* Image name must be flutter-img.
+* Container name must be php-con.
+* Image name must be php-img.
 * Make sure you choose base linux image as ubuntu,centos,mariadb,php,composer,nginx etc.
 * Please do not use third party images for serve the project.
 * You can use multistage dockerfile for serve the project.
 * The build layers of the images must be less.
 
-<img align='center' src="https://fwdsgf.com/wp-content/uploads/2018/01/logo-dot-net-framework.png">
+<img align='center' src="https://www.developersacademy.org/blog/wp-content/uploads/2018/04/php-1024x538.png">
