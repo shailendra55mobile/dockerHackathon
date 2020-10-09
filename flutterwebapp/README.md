@@ -1,4 +1,5 @@
-# flutter web app
+# Flutter web app
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
@@ -18,6 +19,7 @@
 * Make sure you choose base linux images as ubuntu,centos etc.
 * Please do not use third party images to serve the project.
 * You can use multistage Dockerfile to serve the project.
-* Make sure the build layers of the images must be less.
+* The build layers of the images must be less.
 
+<img align='center' src="https://dashbouquet.com/static/020b2d58fcc9ac999513a862aa01314c/d47f1/flutter-app-development-post.jpg">
 
