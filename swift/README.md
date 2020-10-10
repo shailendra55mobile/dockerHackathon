@@ -8,7 +8,7 @@
 
 <img align='right' src="https://miro.medium.com/max/624/1*hWVuG63ZyXU7o8idgUHW5g.gif">
 
-### 1) Create a sample project for swift application with one test case.
+### 1) Create a sample project for swift application.
 ### 2) Make sure use swift base image with version.
 ### 3) Create a Dockerfile to serve the project.
 ### 4) Create docker-compose to setup the local environment.
