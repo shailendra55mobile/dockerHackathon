@@ -1,0 +1,11 @@
+version: '3.0'
+services:
+  FFDockerHackthon:
+    build:
+      container_name: flutter-con
+        restart: always
+        image: flutter-con
+        port:
+          - 8080:80
+        build:
+          context: ./
