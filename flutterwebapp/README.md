@@ -24,7 +24,6 @@
 * The network must be defined under docker-compose. 
 
 
-
 ## Best Practices for Dockerfile and docker-compose.
 * Use volume in docker-compose for runtime changes.
 * Include comments on every step in Dockerfile and docker-compose file.
