@@ -19,6 +19,8 @@
 * Please do not use third party images for serve the project.
 * You can use multistage dockerfile for serve the project.
 * The build layers of the images must be less.
+* Make sure to choose compose file version 3.
+* The network must be defined under docker-compose. 
 
 
 ## Best Practices for Dockerfile and docker-compose.
